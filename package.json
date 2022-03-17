@@ -1,0 +1,30 @@
+{
+  "name": "flatpickr-prefabs",
+  "version": "1.0.0",
+  "description": "A collection of flatpickr prefabs",
+  "main": "dist/index.min.js",
+  "scripts": {
+    "build": "tsc && gulp pack-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kylescudder/flatpickr-prefabs.git"
+  },
+  "url": "https://github.com/kylescudder/flatpickr-prefabs/issues",
+  "email": "kyle@kylescudder.co.uk",
+  "homepage": "https://github.com/kylescudder/flatpickr-prefabs#readme",
+  "keywords": [
+    "flatpickr",
+    "prefab"
+  ],
+  "author": "kylescudder",
+  "license": "MIT",
+  "dependencies": {
+    "flatpickr": "^4.6.11"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^2.0.0"
+  }
+}
