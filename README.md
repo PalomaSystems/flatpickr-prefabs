@@ -1,5 +1,6 @@
 ![npm](https://img.shields.io/npm/v/flatpickr-prefabs)
 [![Release new version to NPMJS](https://github.com/kylescudder/flatpickr-prefabs/actions/workflows/publish.yml/badge.svg)](https://github.com/kylescudder/flatpickr-prefabs/actions/workflows/publish.yml)
+[![Create new GitHub Release](https://github.com/kylescudder/flatpickr-prefabs/actions/workflows/github_release.yml/badge.svg)](https://github.com/kylescudder/flatpickr-prefabs/actions/workflows/github_release.yml)
 
 # flatpickr-prefabs
 A collection of flatpickr prefabs
