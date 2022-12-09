@@ -1,6 +1,6 @@
 {
   "name": "flatpickr-prefabs",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A collection of flatpickr prefabs",
   "main": "dist/index.min.js",
   "scripts": {
