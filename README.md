@@ -95,3 +95,17 @@ import { requestdatepicker } from 'flatpickr-prefabs'
 
 requestdatepicker()
 ```
+
+### Date Range
+Add the class `daterangepicker` to your input
+
+**index.html**
+```
+<input type="date" id="txtDateRange" class="daterangepicker">
+```
+**index.js**
+```
+import { daterangepicker } from 'flatpickr-prefabs'
+
+daterangepicker()
+```

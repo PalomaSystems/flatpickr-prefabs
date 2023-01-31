@@ -60,3 +60,12 @@ export const requestdatepicker = () => {
 		}
 	})
 }
+export const daterangepicker = () => {
+	flatpickr('.daterangepicker', {
+		dateFormat: 'd/m/Y',
+		allowInput: true,
+		minDate: '1900-01',
+		mode: 'range',
+		wrap: true
+	})
+}
